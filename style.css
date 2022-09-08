@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+}
+
+.text {
+    text-align: center;
+    color: silver;
+}
+
+div.container {
+    inline-size: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
